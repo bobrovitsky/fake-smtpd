@@ -1,0 +1,6 @@
+hash: 3441bf6ff6d443d7e65fcdfc4f1d1b67e506cee012ed3b4901bbe2aab9890aa9
+updated: 2017-08-10T14:24:02.130666239+03:00
+imports:
+- name: github.com/bobrovitsky/smtpd
+  version: 83079418d5885ae1650a408ff4614684e20f56e6
+testImports: []
